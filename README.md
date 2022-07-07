@@ -24,4 +24,4 @@ Default values:
 See the [LICENSE](LICENSE) file.
 
 ## Credits
-Inspired by the works of [lomoeffect](https://www.reddit.com/user/lomoeffect/) and [etherealpenguin](https://www.reddit.com/user/etherealpenguin/).
+Inspired by the works of [lomoeffect](https://www.reddit.com/r/movies/comments/16cbqm/movie_barcode_every_frame_in_a_movie_compressed/) and [etherealpenguin](https://www.reddit.com/r/dataisbeautiful/comments/3rb8zi/the_average_color_of_every_frame_of_a_given_movie/).
