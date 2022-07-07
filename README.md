@@ -3,9 +3,11 @@ This is a small python script that can be used to generate images like this from
 ## Examples
 ### Cloud Atlas (2012)
 #### Skip-Rate: 100
-![](/example/final_image_100.jpg)
-#### Skip-Rate: 5000
-![](/example/final_image_5000.jpg)
+![](/example/color_of_cloud_atlas_100.jpg)
+
+### Matrix (1999)
+#### Skip-Rate: 100
+![](/example/color_of_matrix_100.jpg)
 
 ## Installation
 ```
@@ -19,6 +21,12 @@ python colorofmovies.py <optional: movie path> <optional: skip rate>
 ```
 Default values:
 `movie_path="movie.mp4"` and `skip_rate=100`
+
+### Example
+```
+python colorofmovies.py cloud_atlas.mp4
+python colorofmovies.py matrix.mp4 30
+```
 
 ## License
 See the [LICENSE](LICENSE) file.
